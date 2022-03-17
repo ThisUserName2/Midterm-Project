@@ -21,3 +21,4 @@ I am currently enrolled at at the University of Missouri Mizzou. I am currently 
 - [Favorite Media](Interest-and-Hobbies.md)
 - [Music](Music.md)
 - [Hobbies](Hobbies.md)
+- [Favorite Food](FavoriteFood.md)
