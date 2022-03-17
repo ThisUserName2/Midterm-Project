@@ -14,3 +14,9 @@ This page is going to be about me **Mathew Sisson**. While most of the time I wo
 
 >Age: 21
 
+I am currently enrolled at at the University of Missouri Mizzou. I am currently in my second year at Mizzou after transfering from MACC. I have enjoying my time at Mizzou and have taken some intresting classes including this one I am making this for. 
+
+### Areas of Intrest
+
+- [Interests and Hobbies](Interest-and-Hobbies.md)
+- Favorite Music
